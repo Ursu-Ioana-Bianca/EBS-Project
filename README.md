@@ -24,7 +24,7 @@ Number of Successful Publications Delivered:<br />
 Publications sent successfully: 9000<br />
 - Scenario 2: Subscriptions with mixed operators.<br />
 Publications sent successfully: 9090<br />
-Average Delivery Latency:<br />
+Average Delivery Latency:<br /><br />
 - Scenario 1: Subscriptions with equality operators.<br />
 Average latency: 150 milliseconds<br />
 - Scenario 2: Subscriptions with mixed operators.<br />
