@@ -19,7 +19,7 @@ Run Publishers: Continuously generate and send publications to the brokers for a
 Measure Delivery and Latency: Track the number of successfully delivered publications and measure the time from publication emission to reception by subscribers.
 Calculate Matching Rate: Compare the number of matched publications in both subscription scenarios.<br />
 Results:<br />
-Number of Successful Publications Delivered:
+Number of Successful Publications Delivered:<br />
 - Scenario 1: Subscriptions with equality operators.<br />
 Publications sent successfully: 9000<br />
 - Scenario 2: Subscriptions with mixed operators.<br />
